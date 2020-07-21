@@ -6,9 +6,12 @@ body {
   letter-spacing: .025rem;
   Background: Black;
   Color: White;
+  font-family: 'Anton', sans-serif;
 }
 
-h1,
+
+<link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet"> 
+
 h2,
 h3,
 h4,
