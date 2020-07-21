@@ -2,4 +2,4 @@
 Starter code for website where I'm going to talk about my favorite things.
 
 # Link
-https://Morganton-Coding-Camp/Paochoua.GitHub.io
+https://github.com/Morganton-Coding-Camp/Paochoua.GitHub.io/blob/master/index.html
