@@ -65,19 +65,22 @@ iframe {
   -webkit-display: flex;
   margin-left: -1rem;
   margin-right: -1rem;
-}.col {
+}
+
+.col {
   flex-grow: 1;
   padding: 1rem;
   }
+
 .banner{
-  background;url('../images/neon-signage-2681319.jpg
-  ');
+  background: url('../images/neon-signage-2681319.jpg');
   background-size: cover;
   min-height: 55vh;
   padding: 3rem;
-  text-aline: center;
+  text-align: center;
+}
 
-.profile-img {
+  .profile-img {
 max-height: 50vh;
 width: auto;
 border-radius: 50%;
