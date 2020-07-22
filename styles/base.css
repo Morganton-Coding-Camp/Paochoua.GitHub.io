@@ -75,7 +75,9 @@ iframe {
   min-height: 75vh;
   padding: 3rem;
   text-align: center;
+  background-position: 70%;
 }
+
 .banner-text {
   display:inline-block;
   margin: auto;
