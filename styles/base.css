@@ -9,9 +9,6 @@ body {
   font-family: 'Anton', sans-serif;
 }
 
-
-<link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet"> 
-
 h2,
 h3,
 h4,
@@ -88,9 +85,10 @@ iframe {
   background: #42ada7;
   color: #ad4248;
   border: 15px solid #000000;
+}
   
 
-  .profile-img {
+.profile-img {
 max-height: 50vh;
 width: auto;
 border-radius: 50%;
