@@ -75,7 +75,7 @@ iframe {
 .banner{
   background: url('../images/neon-signage-2681319.jpg');
   background-size: cover;
-  min-height: 75vh;
+  min-height: 65vh;
   padding: 3rem;
   text-align: center;
 }
