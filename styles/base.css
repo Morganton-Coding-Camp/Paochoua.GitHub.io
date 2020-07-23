@@ -94,6 +94,10 @@ iframe {
 max-height: 50vh;
 width: auto;
 border-radius: 50%;
-  opacity: .5;
+background: 	rgba(0,0,0,.5);
 
 }
+
+
+
+
